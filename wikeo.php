@@ -70,7 +70,7 @@ class Wikeo
 	}
 	
 	/**
-	 * Delete the account
+	 * Delete the current account
 	 * 
 	 * @return void
 	 */
