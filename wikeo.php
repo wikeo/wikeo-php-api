@@ -70,7 +70,11 @@ class Wikeo
 	}
 	
 	/**
+<<<<<<< HEAD
 	 * Delete the current account
+=======
+	 * Delete the account
+>>>>>>> origin/master
 	 * 
 	 * @return void
 	 */
