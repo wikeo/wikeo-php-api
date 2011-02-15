@@ -8,7 +8,7 @@ class Wikeo
 	/**
 	 * @var string $domain_url Url of API's racine.
 	 */
-	private static $domain_url = 'http://api.monsiteweb.net/';
+	private static $domain_url = 'http://api.wikeo.be/';
 	/**
 	 * @var string $token Session's token.
 	 */
